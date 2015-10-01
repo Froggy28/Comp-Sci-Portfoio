@@ -22,7 +22,7 @@ h1{
 }
 #navbar li:hover{
     transform:rotate(360deg);
-    background-color:antiquewhite;
+    background-color:#FFE6FF;
     border:none;
 }
 img{
